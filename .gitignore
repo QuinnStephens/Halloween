@@ -1,0 +1,16 @@
+*.sublime-project
+*.sublime-workspace
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+.DS_Store
+*.app
+Assembly*
+*.sln
+*.pidb
+*.unityproj
+*.csproj
+*.exe
+*.zip
+Assets/Vendor
+Assets/Textures
